@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Ah-Lek.github.io/lek/blog</id>
+    <title>Lek Documentations Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Ah-Lek.github.io/lek/blog"/>
+    <subtitle>Lek Documentations Blog</subtitle>
+    <icon>https://Ah-Lek.github.io/lek/lek.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[About Me]]></title>
+        <id>https://Ah-Lek.github.io/lek/blog/welcome</id>
+        <link href="https://Ah-Lek.github.io/lek/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Lek Documentation!]]></summary>
+        <content type="html"><![CDATA[<p><strong>Welcome to Lek Documentation!</strong></p>
+<p>Hello and welcome to my online learning and reference platform! 🎉🎉🎉</p>
+<p>This website is designed to be a hub for knowledge, inspiration, and growth. Whether you're a student, professional, or curious mind, you'll find a wealth of resources here to explore, learn, and achieve your goals.</p>
+<p>Our goal is to provide a comprehensive and user-friendly space for learners of all levels. From detailed tutorials and insightful articles to practical examples and reference materials, we’re here to support your journey every step of the way.</p>
+<p>Let us know how we can make your learning experience even better. Together, let’s build a brighter, more informed future.</p>
+<p>Thank you for visiting, and happy learning! 🚀</p>]]></content>
+        <author>
+            <name>Yong Jun Kai(Ah Lek)</name>
+            <uri>https://github.com/Ah-Lek</uri>
+        </author>
+        <category label="Facebook" term="Facebook"/>
+        <category label="Hello" term="Hello"/>
+        <category label="Docusaurus" term="Docusaurus"/>
+    </entry>
+</feed>

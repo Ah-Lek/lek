@@ -1,9 +1,0 @@
-{
-    "label": "GStreamer",
-    "position": 5,
-    "link": {
-      "type": "generated-index",
-      "description": " This section we will implement MOIL image processing technology on the Renesas RZ/G2L, enabling image streaming over a network and fostering further system development on PC or other hardware environments."
-    }
-  }
-  

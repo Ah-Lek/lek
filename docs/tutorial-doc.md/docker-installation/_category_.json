@@ -1,9 +1,0 @@
-{
-    "label": "Installation for Docker Engine",
-    "position": 4,
-    "link": {
-      "type": "generated-index",
-      "description": " This section we will install Docker Engine to provide an isolated environment for  you to build, test, and deploy applications quickly."
-    }
-  }
-  

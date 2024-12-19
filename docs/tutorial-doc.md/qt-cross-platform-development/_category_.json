@@ -1,9 +1,0 @@
-{
-    "label": "Qt Cross-platform Development",
-    "position": 3,
-    "link": {
-      "type": "generated-index",
-      "description": " This section offers step-by-step instructions to use Qt Creator as our development tools to build Aarch64 applications based on PC/ Ubuntu 22.04 and Windows 11 platform, then transfer them to Renesas RZ/G2L target board for execution."
-    }
-  }
-  

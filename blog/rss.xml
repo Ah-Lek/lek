@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Lek Documentations Blog</title>
+        <link>https://Ah-Lek.github.io/lek/blog</link>
+        <description>Lek Documentations Blog</description>
+        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <link>https://Ah-Lek.github.io/lek/blog/welcome</link>
+            <guid>https://Ah-Lek.github.io/lek/blog/welcome</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to Lek Documentation!]]></description>
+            <content:encoded><![CDATA[<p><strong>Welcome to Lek Documentation!</strong></p>
+<p>Hello and welcome to my online learning and reference platform! 🎉🎉🎉</p>
+<p>This website is designed to be a hub for knowledge, inspiration, and growth. Whether you're a student, professional, or curious mind, you'll find a wealth of resources here to explore, learn, and achieve your goals.</p>
+<p>Our goal is to provide a comprehensive and user-friendly space for learners of all levels. From detailed tutorials and insightful articles to practical examples and reference materials, we’re here to support your journey every step of the way.</p>
+<p>Let us know how we can make your learning experience even better. Together, let’s build a brighter, more informed future.</p>
+<p>Thank you for visiting, and happy learning! 🚀</p>]]></content:encoded>
+            <category>Facebook</category>
+            <category>Hello</category>
+            <category>Docusaurus</category>
+        </item>
+    </channel>
+</rss>
