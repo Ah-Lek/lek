@@ -1,0 +1,9 @@
+{
+    "label": "OpenSSH Server",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": " This section provides step-by-step instructions to help users install and setup OpenSSH Server to remotely controlling networked computers and transferring data between them."
+    }
+  }
+  

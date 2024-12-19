@@ -1,0 +1,9 @@
+{
+    "label": "Git Tutorial",
+    "position": 6,
+    "link": {
+      "type": "generated-index",
+      "description": " This section we will install the latest version of Git and get started with the GitHub in VS Code, you'll need to create an account and install the GitHub Pull Requests and Issues extension."
+    }
+  }
+  

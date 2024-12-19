@@ -1,0 +1,9 @@
+{
+    "label": "Yocto Layer and Recipe",
+    "position": 5,
+    "link": {
+      "type": "generated-index",
+      "description": " This section we partice to add our own code into the Yocto project as a part of the Linux image."
+    }
+  }
+  

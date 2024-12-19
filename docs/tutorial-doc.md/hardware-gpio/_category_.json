@@ -1,0 +1,9 @@
+{
+    "label": "Hardware GPIO for Renesas(RZ/G2L)",
+    "position": 8,
+    "link": {
+      "type": "generated-index",
+      "description": " This section offers step-by-step instructions to show you how to perform tests and develop program to control the GPIO hardware pins of Renesas RZ/G2L under the Linux environment."
+    }
+  }
+  
