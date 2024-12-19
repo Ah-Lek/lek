@@ -14,4 +14,4 @@ This command downloads a test image and runs it in a container. When the contain
 
 ![alt text](image-1.png)
 
-You have now successfully installed and started Docker Engine. Hello
+You have now successfully installed and started Docker Engine. 
