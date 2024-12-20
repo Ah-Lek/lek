@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkahlek=self.webpackChunkahlek||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"About Me","permalink":"/lek/blog/welcome","unlisted":false,"date":"2024-12-19T07:04:58.000Z"}]}')}}]);
