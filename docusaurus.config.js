@@ -11,8 +11,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Lek Documentations',
-  tagline: 'No pains, no gains',
-  favicon: 'lek.ico',
+  tagline: 'No Pains, No Gains',
+  favicon: 'img/lek.ico',
 
   // Set the production url of your site here
   url: 'https://Ah-Lek.github.io',
@@ -23,7 +23,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Ah-Lek', // Usually your GitHub org/user name.
-  projectName: 'ahlek', // Usually your repo name.
+  projectName: 'lek', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -70,7 +70,7 @@ const config = {
         title: 'Lek Documentation',
         logo: {
           alt: 'Lek Logo',
-          src: 'img/logo.svg',
+          src: 'img/lek.png',
         },
         items: [
           {
@@ -103,16 +103,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Instagram',
+                href: 'https://instagram.com/ah_lek_0802',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Whatsapp',
+                href: 'https://wa.me/+601113078315',
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/yongjunkai',
               },
             ],
           },
@@ -126,11 +126,11 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Lek Documentation.`,
       },
       prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
+        theme: prismThemes.duotoneLight,
+        darkTheme: prismThemes.duotoneDark,
       },
     }),
 };
