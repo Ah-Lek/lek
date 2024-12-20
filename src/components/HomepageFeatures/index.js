@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Easy Learning',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Lek Documentations are simplified with step-by-step tutorials and easy-to-understand real-world examples.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Comprehensive Resources',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Lek Documentations provide detailed guides, visual aids, and hands-on projects to improve your skills and apply your knowledge effectively.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Beginner-Friendly Approach',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Lek Documentations build a solid foundation with resources designed to support beginners and promote continued technical development.
       </>
     ),
   },

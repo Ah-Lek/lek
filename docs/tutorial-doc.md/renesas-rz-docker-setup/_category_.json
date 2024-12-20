@@ -1,9 +1,0 @@
-{
-    "label": "Renesas RZ/G2L Docker Setup",
-    "position": 3,
-    "link": {
-      "type": "generated-index",
-      "description": " This section offers step-by-step instructions to help users create the Yocto project under a Ubuntu 20.04 environment, we are about to prepare a docker image that meet the requirement."
-    }
-  }
-  

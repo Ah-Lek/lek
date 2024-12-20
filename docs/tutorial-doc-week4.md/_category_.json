@@ -1,0 +1,8 @@
+{
+    "label": "Tutorial Docs (Week 4)",    
+    "position": 5,
+    "link": {
+      "type": "generated-index",
+      "description": "The second week of the training focused on programming the Renesas RZ/G2L microcontroller and enhanced your knowledge of embedded systems."
+    }
+  }
